@@ -1,0 +1,5 @@
+blog database - category, author, title, slug, description, image, date, status, popular , trending, latest
+
+category database - category name, status(1)
+
+author database - author name, status
